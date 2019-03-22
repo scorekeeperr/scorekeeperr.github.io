@@ -1,0 +1,19 @@
+body{
+
+	background:url(https://8djjb4xixg-flywheel.netdna-ssl.com/wp-content/uploads/2016/06/grass_1.jpg);
+background-size:cover; 
+background-repeat: no-repeat;
+font-family: 'Lato', sans-serif;
+}
+html{
+	height:100%;
+	 widht: auto;
+}
+nav{
+	color:white;
+	font-weight: 200;
+	font-size:1.5em;
+}
+input{
+	height:200px;
+}

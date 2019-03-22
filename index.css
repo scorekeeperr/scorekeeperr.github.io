@@ -1,0 +1,32 @@
+
+body{
+background:url(https://png.pngtree.com/thumb_back/fh260/back_pic/00/04/50/455624782894ec1.jpg);
+background-size:cover; 
+background-repeat: no-repeat;
+ 
+ 
+	  
+}
+html{
+	height:100%;
+	 widht: auto;
+}
+
+#content{
+	text-align:center;
+	padding-top:25%;
+	 text-shadow: 2px 2px pink;
+}
+h1{
+	font-weight:800;
+	font-size:5em;
+}
+h3{
+	font-size:2.5em;
+}
+hr{
+	width:600px;
+	color:purple;
+	border-top:1px solid #f8f8f8;
+	border-bottom:1px solid rgba(0,0,0,0.5);
+}
